@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+venv/
+.env
+
+# SQLite DB
+database/*.db
+database/*.sqlite
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Byte-compiled
+*.sqlite3
