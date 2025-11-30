@@ -1,1 +1,9 @@
+/* минимальная заготовка */
+body {
+    font-family: Arial, sans-serif;
+    background: #fafafa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
 
